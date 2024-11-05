@@ -1,5 +1,9 @@
 # Geni Jobs
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de3dc5e2-d65e-4689-9e09-82bab1495b66" width="600" />
+</p>
+
 GeniJobs is a job listing platform where users can browse job listings and vote on whether they believe the job is genuine or not. The app was built using Create React App with TypeScript and includes an Express.js backend.
 
 ## Features
